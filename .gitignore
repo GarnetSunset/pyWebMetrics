@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# webmetrics files
+webmetrics.api
+webmetrics.user
